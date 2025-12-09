@@ -1,0 +1,14 @@
+{
+  "output_path": "downloads",
+  "default_quality": "best",
+  "max_retries": 3,
+  "retry_delay": 2,
+  "concurrent_downloads": 3,
+  "download_subtitles": true,
+  "subtitle_languages": [
+    "en"
+  ],
+  "embed_subtitles": true,
+  "max_filename_length": 200,
+  "show_file_size": true
+}
